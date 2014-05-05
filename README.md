@@ -11,6 +11,7 @@ Front-end template based on [HTML5 boilerplate](https://github.com/h5bp/html5-bo
 + [Angular](https://angularjs.org/)
 + [Angular $resource](https://docs.angularjs.org/api/ngResource)
 + [Angular $route](https://docs.angularjs.org/api/ngRoute)
++ [Underscore](http://underscorejs.org/)
 + A basic Angular project structure
 
 ## To do
